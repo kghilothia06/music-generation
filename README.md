@@ -8,3 +8,5 @@ An intro to midi files done!
 data preprocessing done! in this, each midi file was flattened to a single list of chords & notes 
 
 sequential data for LSTM network prepared!
+
+LSTM model built
